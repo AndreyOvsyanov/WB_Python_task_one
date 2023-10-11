@@ -53,10 +53,10 @@ build-backend = "poetry.core.masonry.api"
 ![image](https://github.com/AndreyOvsyanov/WB_Python_task_one/assets/61729661/e398b109-bf2c-4308-8eaa-3f20340ec212)
 ![image](https://github.com/AndreyOvsyanov/WB_Python_task_one/assets/61729661/b5dd7727-8c8b-4a33-8766-dc416e280935)
 
-##jupyter lab
+jupyter lab
 ![image](https://github.com/AndreyOvsyanov/WB_Python_task_one/assets/61729661/346ae053-6c85-4915-a9ba-e9b874499125)
 
-#Cкрипт, выводящий версии установленных библиотек
+Cкрипт, выводящий версии установленных библиотек
 ![image](https://github.com/AndreyOvsyanov/WB_Python_task_one/assets/61729661/8e72a818-f6ff-4a4a-93f7-c6aea859ddf2)
 
 
