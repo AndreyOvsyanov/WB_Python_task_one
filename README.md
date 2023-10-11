@@ -9,23 +9,23 @@
 # Решение
 
 1. Установить Python 3 (от 3.9)\
-Установил Python 3.12
+   Установил Python 3.12
 
-2. Настроить окружение в Poetry\
-Установим poetry командой\
-``` pip instal poetry ```
+3. Настроить окружение в Poetry\
+   Установим poetry командой\
+   ``` pip instal poetry ```
 
-Следующей командой создадим проект в poetry, у нас появится pyproject.toml\
-``` poetry new my_project ``` 
+   Следующей командой создадим проект в poetry, у нас появится pyproject.toml\
+   ``` poetry new my_project ```
 
-Переключимся на него командой\
-``` cd my_project ```
+   Переключимся на него командой\
+   ``` cd my_project ```
 
-3. Установить pandas,  numpy и 	jupyterlab в окружении\
-Установим нужные библиотеки командой\
-``` poetry add numpy pandas jupyterlab ```
+4. Установить pandas,  numpy и 	jupyterlab в окружении\
+   Установим нужные библиотеки командой\
+   ``` poetry add numpy pandas jupyterlab ```
 
-Файл pyproject.toml\
+   Файл pyproject.toml\
 ```
 [tool.poetry]
 name = "my-project"
